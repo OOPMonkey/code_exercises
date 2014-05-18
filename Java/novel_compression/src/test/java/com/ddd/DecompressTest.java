@@ -1,5 +1,6 @@
 package com.ddd;
 
+import com.ddd.novelcompression.NovelCompressor;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
