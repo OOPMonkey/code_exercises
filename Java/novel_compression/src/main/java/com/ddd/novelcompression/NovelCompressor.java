@@ -6,8 +6,8 @@ public class NovelCompressor {
     private String chunk;
 
     public NovelCompressor(String[] dictionary, String chunk) {
-        this.dictionary = dictionary;
-        this.chunk = chunk;
+        setDictionary(dictionary);
+        setChunk(chunk);
     }
 
     private void setDictionary(String[] dictionary) {
@@ -27,6 +27,8 @@ public class NovelCompressor {
     }
 
     public String decompress() {
+        String[] wordChunks = chunk.split(" ");
+
         return  "";
     }
 }
