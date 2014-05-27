@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0981d307-4b0b-4042-8120-9f74034a9e5b" name="Default" comment="Added">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/ddd/DecompressTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/ddd/DecompressTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ddd/novelcompression/NovelCompressor.java" afterPath="$PROJECT_DIR$/src/main/java/com/ddd/novelcompression/NovelCompressor.java" />
-    </list>
+    <list default="true" id="0981d307-4b0b-4042-8120-9f74034a9e5b" name="Default" comment="Added" />
     <ignored path="novel_compression.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -836,7 +833,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="960" height="1050" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
