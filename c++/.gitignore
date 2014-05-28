@@ -48,3 +48,11 @@ Makefile*
 # QtCreator
 
 *.autosave
+.*~
+.*.swp
+.*~
+[Dd]ebug/
+[Rr]elease/
+srv/
+
+
